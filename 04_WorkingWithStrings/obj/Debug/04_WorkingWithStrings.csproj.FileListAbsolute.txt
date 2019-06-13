@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\bin\Debug\04_WorkingWithStrings.exe.config
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\bin\Debug\04_WorkingWithStrings.exe
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\bin\Debug\04_WorkingWithStrings.pdb
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\obj\Debug\04_WorkingWithStrings.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\obj\Debug\04_WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\obj\Debug\04_WorkingWithStrings.exe
+C:\Users\Nihil\Desktop\LearningC#\04_WorkingWithStrings\obj\Debug\04_WorkingWithStrings.pdb
