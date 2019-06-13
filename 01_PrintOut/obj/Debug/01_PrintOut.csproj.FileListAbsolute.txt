@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\bin\Debug\01_PrintOut.exe.config
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\bin\Debug\01_PrintOut.exe
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\bin\Debug\01_PrintOut.pdb
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\obj\Debug\01_PrintOut.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\obj\Debug\01_PrintOut.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\obj\Debug\01_PrintOut.exe
+C:\Users\Nihil\Desktop\LearningC#\01_PrintOut\obj\Debug\01_PrintOut.pdb
