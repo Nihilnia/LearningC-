@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\obj\Debug\03_DataTypes.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\obj\Debug\03_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\bin\Debug\03_DataTypes.exe.config
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\bin\Debug\03_DataTypes.exe
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\bin\Debug\03_DataTypes.pdb
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\obj\Debug\03_DataTypes.exe
+C:\Users\Nihil\Desktop\LearningC#\03_DataTypes\obj\Debug\03_DataTypes.pdb
