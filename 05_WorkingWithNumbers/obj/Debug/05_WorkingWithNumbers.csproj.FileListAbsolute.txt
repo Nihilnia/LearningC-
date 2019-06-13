@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\bin\Debug\05_WorkingWithNumbers.exe.config
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\bin\Debug\05_WorkingWithNumbers.exe
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\bin\Debug\05_WorkingWithNumbers.pdb
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\obj\Debug\05_WorkingWithNumbers.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\obj\Debug\05_WorkingWithNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\obj\Debug\05_WorkingWithNumbers.exe
+C:\Users\Nihil\Desktop\LearningC#\05_WorkingWithNumbers\obj\Debug\05_WorkingWithNumbers.pdb
