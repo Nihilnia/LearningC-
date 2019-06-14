@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\bin\Debug\07_BuildingACalculator.exe.config
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\bin\Debug\07_BuildingACalculator.exe
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\bin\Debug\07_BuildingACalculator.pdb
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\obj\Debug\07_BuildingACalculator.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\obj\Debug\07_BuildingACalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\obj\Debug\07_BuildingACalculator.exe
+C:\Users\Nihil\Desktop\LearningC#\07_BuildingACalculator\obj\Debug\07_BuildingACalculator.pdb
