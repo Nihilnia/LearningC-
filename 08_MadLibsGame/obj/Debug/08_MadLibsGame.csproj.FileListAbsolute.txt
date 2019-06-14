@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\bin\Debug\08_MadLibsGame.exe.config
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\bin\Debug\08_MadLibsGame.exe
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\bin\Debug\08_MadLibsGame.pdb
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\obj\Debug\08_MadLibsGame.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\obj\Debug\08_MadLibsGame.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\obj\Debug\08_MadLibsGame.exe
+C:\Users\Nihil\Desktop\LearningC#\08_MadLibGame\obj\Debug\08_MadLibsGame.pdb
