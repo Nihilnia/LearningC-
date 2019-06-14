@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\bin\Debug\06_GettingUserInput.exe.config
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\bin\Debug\06_GettingUserInput.exe
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\bin\Debug\06_GettingUserInput.pdb
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\obj\Debug\06_GettingUserInput.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\obj\Debug\06_GettingUserInput.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\obj\Debug\06_GettingUserInput.exe
+C:\Users\Nihil\Desktop\LearningC#\06_GettingUserInput\obj\Debug\06_GettingUserInput.pdb
