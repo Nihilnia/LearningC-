@@ -10,4 +10,6 @@
 
 6- Getting user input (Done! 2:06 AM, '06_15_19', keep it up!)
 
-7- Building a Calculaor (Done! 2:19 AM)
+7- Building a Calculator (Done! 2:19 AM)
+
+8- Creating a Mad Libs game (Done! 2:34 AM)
