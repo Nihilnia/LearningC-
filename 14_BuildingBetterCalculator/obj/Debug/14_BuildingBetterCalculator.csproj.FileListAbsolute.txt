@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\bin\Debug\14_BuildingBetterCalculator.exe.config
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\bin\Debug\14_BuildingBetterCalculator.exe
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\bin\Debug\14_BuildingBetterCalculator.pdb
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\obj\Debug\14_BuildingBetterCalculator.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\obj\Debug\14_BuildingBetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\obj\Debug\14_BuildingBetterCalculator.exe
+C:\Users\Nihil\Desktop\LearningC#\14_BuildingBetterCalculator\obj\Debug\14_BuildingBetterCalculator.pdb
