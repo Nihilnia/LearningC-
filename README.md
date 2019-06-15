@@ -13,3 +13,5 @@
 7- Building a Calculator (Done! 2:19 AM)
 
 8- Creating a Mad Libs game (Done! 2:34 AM)
+
+9- Arrays (Done! 3:00 AM)
