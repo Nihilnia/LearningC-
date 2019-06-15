@@ -21,3 +21,5 @@
 11- Return statements (Done! 4:20 AM, done for today, wake up early.)
 
 12- If Statements (Done! 11:35 PM)
+
+13- More If Statements "comparison operators" (Done! 12:02 AM '06_16_19')
