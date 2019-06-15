@@ -15,3 +15,5 @@
 8- Creating a Mad Libs game (Done! 2:34 AM)
 
 9- Arrays (Done! 3:00 AM)
+
+10- Methods (Done! 3:50 AM)
