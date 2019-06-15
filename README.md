@@ -23,3 +23,7 @@
 12- If Statements (Done! 11:35 PM)
 
 13- More If Statements "comparison operators" (Done! 12:02 AM '06_16_19')
+
+14- Building better calculator (Done! 12:30 AM)
+
+15- Switch Statements (Done! 01:00 AM)
