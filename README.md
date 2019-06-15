@@ -19,3 +19,5 @@
 10- Methods (Done! 3:50 AM)
 
 11- Return statements (Done! 4:20 AM, done for today, wake up early.)
+
+12- If Statements (Done! 11:35 PM)
