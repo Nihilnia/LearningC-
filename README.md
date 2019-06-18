@@ -28,4 +28,6 @@
 
 15- Switch Statements (Done! 01:00 AM)
 
-16- While Loops (Don! 12:41 AM '06_19_19')
+16- While Loops (Done! 12:41 AM '06_19_19')
+
+17- Building a Guessing Game (Done! 12:57 AM)
