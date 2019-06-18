@@ -31,3 +31,5 @@
 16- While Loops (Done! 12:41 AM '06_19_19')
 
 17- Building a Guessing Game (Done! 12:57 AM)
+
+18- For Loops (Done! 01:18 AM)
