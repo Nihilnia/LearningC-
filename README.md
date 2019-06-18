@@ -27,3 +27,5 @@
 14- Building better calculator (Done! 12:30 AM)
 
 15- Switch Statements (Done! 01:00 AM)
+
+16- While Loops (Don! 12:41 AM '06_19_19')
