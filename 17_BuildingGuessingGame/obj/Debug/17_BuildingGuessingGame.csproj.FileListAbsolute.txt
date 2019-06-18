@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\bin\Debug\17_BuildingGuessingGame.exe.config
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\bin\Debug\17_BuildingGuessingGame.exe
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\bin\Debug\17_BuildingGuessingGame.pdb
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\obj\Debug\17_BuildingGuessingGame.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\obj\Debug\17_BuildingGuessingGame.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\obj\Debug\17_BuildingGuessingGame.exe
+C:\Users\Nihil\Desktop\LearningC#\17_BuildingGuessingGame\obj\Debug\17_BuildingGuessingGame.pdb
