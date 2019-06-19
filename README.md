@@ -35,3 +35,5 @@
 18- For Loops (Done! 01:18 AM)
 
 19- Building an Exponent Method (Done! 3:40 AM)
+
+20- 2D Arrays (Done! 05:10 AM)
