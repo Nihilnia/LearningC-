@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\bin\Debug\19_BuildingAnExponentMethod.exe.config
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\bin\Debug\19_BuildingAnExponentMethod.exe
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\bin\Debug\19_BuildingAnExponentMethod.pdb
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\obj\Debug\19_BuildingAnExponentMethod.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\obj\Debug\19_BuildingAnExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\obj\Debug\19_BuildingAnExponentMethod.exe
+C:\Users\Nihil\Desktop\LearningC#\19_BuildingAnExponentMethod\obj\Debug\19_BuildingAnExponentMethod.pdb
