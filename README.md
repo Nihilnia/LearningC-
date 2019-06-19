@@ -39,3 +39,5 @@
 20- 2D Arrays (Done! 05:10 AM)
 
 21- Comment Lines (Done! 5:19 AM)
+
+22- Exception Handling (Done! 5:40 AM)
