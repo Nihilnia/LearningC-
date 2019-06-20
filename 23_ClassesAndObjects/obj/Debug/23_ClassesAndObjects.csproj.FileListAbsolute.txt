@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\bin\Debug\23_ClassesAndObjects.exe.config
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\bin\Debug\23_ClassesAndObjects.exe
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\bin\Debug\23_ClassesAndObjects.pdb
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\obj\Debug\23_ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\obj\Debug\23_ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\obj\Debug\23_ClassesAndObjects.exe
+C:\Users\Nihil\Desktop\LearningC#\23_ClassesAndObjects\obj\Debug\23_ClassesAndObjects.pdb
