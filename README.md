@@ -47,3 +47,7 @@
 24- Constructors (Done! 10:30 AM '06_21_19')
 
 25- Objects of Methods (Done! 10:50 AM)
+
+26- Getters & Setters (Done! 11:28 AM)
+
+27- Static Class Attributes (Done! 11:58 AM)
