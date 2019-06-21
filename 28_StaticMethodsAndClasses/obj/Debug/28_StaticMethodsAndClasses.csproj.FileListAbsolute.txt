@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\bin\Debug\28_StaticMethodsAndClasses.exe.config
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\bin\Debug\28_StaticMethodsAndClasses.exe
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\bin\Debug\28_StaticMethodsAndClasses.pdb
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\obj\Debug\28_StaticMethodsAndClasses.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\obj\Debug\28_StaticMethodsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\obj\Debug\28_StaticMethodsAndClasses.exe
+C:\Users\Nihil\Desktop\LearningC#\28_StaticMethodsAndClasses\obj\Debug\28_StaticMethodsAndClasses.pdb
