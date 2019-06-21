@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\bin\Debug\25_ObjectsMethods.exe.config
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\bin\Debug\25_ObjectsMethods.exe
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\bin\Debug\25_ObjectsMethods.pdb
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\obj\Debug\25_ObjectsMethods.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\obj\Debug\25_ObjectsMethods.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\obj\Debug\25_ObjectsMethods.exe
+C:\Users\Nihil\Desktop\LearningC#\25_ObjectsMethods\obj\Debug\25_ObjectsMethods.pdb
