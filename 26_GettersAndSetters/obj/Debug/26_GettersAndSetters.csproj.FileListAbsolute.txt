@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\bin\Debug\26_GettersAndSetters.exe.config
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\bin\Debug\26_GettersAndSetters.exe
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\bin\Debug\26_GettersAndSetters.pdb
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\obj\Debug\26_GettersAndSetters.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\obj\Debug\26_GettersAndSetters.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\obj\Debug\26_GettersAndSetters.exe
+C:\Users\Nihil\Desktop\LearningC#\26_GettersAndSetters\obj\Debug\26_GettersAndSetters.pdb
