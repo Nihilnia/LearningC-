@@ -53,3 +53,7 @@
 27- Static Class Attributes (Done! 11:58 AM)
 
 28- Static Methods & Classes (Done! 12:13 AM)
+
+29- Inheritance (Done! 11:22 AM)
+
+-- End of the course --
