@@ -51,3 +51,5 @@
 26- Getters & Setters (Done! 11:28 AM)
 
 27- Static Class Attributes (Done! 11:58 AM)
+
+28- Static Methods & Classes (Done! 12:13 AM)
