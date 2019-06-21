@@ -44,4 +44,6 @@
 
 23- Classes and Objects (Done! '06_20_19')
 
-24- Constructors (Done! '06_21_19')
+24- Constructors (Done! 10:30 AM '06_21_19')
+
+25- Objects of Methods (Done! 10:50 AM)
