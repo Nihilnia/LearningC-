@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\bin\Debug\27_StaticClassAttributes.exe.config
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\bin\Debug\27_StaticClassAttributes.exe
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\bin\Debug\27_StaticClassAttributes.pdb
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\obj\Debug\27_StaticClassAttributes.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\obj\Debug\27_StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\obj\Debug\27_StaticClassAttributes.exe
+C:\Users\Nihil\Desktop\LearningC#\27_StaticClassAttributes\obj\Debug\27_StaticClassAttributes.pdb
