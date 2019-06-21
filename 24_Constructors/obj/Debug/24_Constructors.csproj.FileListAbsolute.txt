@@ -1,0 +1,7 @@
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\bin\Debug\24_Constructors.exe.config
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\bin\Debug\24_Constructors.exe
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\bin\Debug\24_Constructors.pdb
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\obj\Debug\24_Constructors.csprojAssemblyReference.cache
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\obj\Debug\24_Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\obj\Debug\24_Constructors.exe
+C:\Users\Nihil\Desktop\LearningC#\24_Constructors\obj\Debug\24_Constructors.pdb
